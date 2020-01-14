@@ -1,7 +1,7 @@
 # mystrch
 ENG:
 The library in the C programming language. 
-Contains the most frequently used functions, when developing console applications.
+Contains the most frequently used functions in developing console applications.
 Very often the exit() function is used to handle emergency situations. (Be careful!)
 If you have the desire, time and ideas on how to improve or add something - write (to romanstrah@mail.ru or in the comments) or send ready-made works. 
 All of them will be reviewed and added (if really useful) with an indication of the author...
